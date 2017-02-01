@@ -1,0 +1,10 @@
+{
+  "name": "meteor-scaffolding",
+  "private": false,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.22.0"
+  }
+}
