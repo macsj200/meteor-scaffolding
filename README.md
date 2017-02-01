@@ -9,6 +9,6 @@
 ## FS Layout
 
 - `/globals`
-..- `/client`
-..- `/server`
+⋅⋅- `/client`
+⋅⋅- `/server`
 - `/imports`
