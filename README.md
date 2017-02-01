@@ -8,4 +8,7 @@
 
 ## FS Layout
 
-- `globals`
+- `/globals`
+..- `/client`
+..- `/server`
+- `/imports`
