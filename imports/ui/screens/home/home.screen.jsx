@@ -11,15 +11,13 @@ class HomeScreen extends React.Component {
           <div className="container">
             <div className="row">
               <div className="col-md-12 text-center">
-                <h1 className="text-center home-title">OJI</h1>
-                <p>Objects / Jewels / Icons</p>
-                <p>You virtual vault.... building a pedigree for your icons.</p>
+                <h1 className="text-center home-title">Meteor-scaffolding</h1>
+                <p>Swag and stuff</p>
               </div>
             </div>
           </div>
           <div className="navbar-fixed-bottom">
             <div className="container">
-              <LogInSignUp/>
               <div style={{minHeight: '10px'}}></div>
             </div>
           </div>

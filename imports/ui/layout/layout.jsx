@@ -13,6 +13,11 @@ class ScreenManager extends React.Component {
     super();
     Layout = this;
   }
+  transitionTo(newScreen) {
+    this.setState({
+      currentScreen: newScreen
+    });
+  }
   currentScreenDidMount() {
     // stub
   }
@@ -27,3 +32,4 @@ class ScreenManager extends React.Component {
     )
   }
 }
+mount(ScreenManager);
