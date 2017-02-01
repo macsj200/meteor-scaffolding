@@ -1,6 +1,6 @@
 import React, { PropTypes } from 'react'
 import './home.css'
-import LogInSignUp from '/imports/ui/shared/account/logInSignUp.jsx';
+
 import Screen from '/imports/ui/layout/screen.jsx';
 
 class HomeScreen extends React.Component {
